@@ -1,0 +1,11 @@
+{
+	"latest-version":"0.1.1 test",
+	"version-description":[
+		{
+			"version-code":1,
+			"version-name":"0.1.1 test",
+			"version-url":"https://raw.githubusercontent.com/EdrowsLuo/gitStorage/master/storage/osu!whathelper.apk",
+			"version-update-log":"加入自动更新"
+		}
+	]
+}
