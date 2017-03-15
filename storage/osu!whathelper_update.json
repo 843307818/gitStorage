@@ -1,11 +1,14 @@
 {
-	"latest-version":"0.1.1 test",
+	"file-encoder-version":1,
+	"latest-version-index":6,
 	"version-description":[
 		{
+			"version-update-time":"2017.3.16 01:00",
 			"version-code":1,
-			"version-name":"0.1.1 test",
-			"version-url":"https://raw.githubusercontent.com/EdrowsLuo/gitStorage/master/storage/osu!whathelper.apk",
-			"version-update-log":"加入自动更新"
+			"version-index":6,
+			"version-name":"0.1.2 test",
+			"version-url":"https://raw.githubusercontent.com/EdrowsLuo/gitStorage/master/storage/versions/0.1.2_test.apk",
+			"version-update-log":"bug修复"
 		}
 	]
 }
