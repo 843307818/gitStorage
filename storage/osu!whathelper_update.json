@@ -1,14 +1,22 @@
 {
 	"file-encoder-version":1,
-	"latest-version-index":6,
+	"latest-version-index":5555,
 	"version-description":[
 		{
 			"version-update-time":"2017.3.16 01:00",
 			"version-code":1,
-			"version-index":6,
-			"version-name":"0.1.2 test",
+			"version-index":5555,
+			"version-name":"0.1.x test(git update)",
 			"version-url":"https://raw.githubusercontent.com/EdrowsLuo/gitStorage/master/storage/versions/0.1.2_test.apk",
 			"version-update-log":"bug修复"
+		},
+		{
+			"version-update-time":"2017.3.19 01:00",
+			"version-code":1,
+			"version-index":8,
+			"version-name":"0.1.4 test(update)",
+			"version-url":"https://raw.githubusercontent.com/EdrowsLuo/gitStorage/master/storage/versions/0.1.4_test(update).apk",
+			"version-update-log":"加入自动更新"
 		}
 	]
 }
